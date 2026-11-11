@@ -1,0 +1,80 @@
+{
+  "scope": "Synthetic lexical smoke benchmark, 3 short documents. Not independent held-out or LLM quality evaluation.",
+  "retrieval": "TF-IDF word unigrams/bigrams, cosine, threshold 0.08",
+  "hit_at_1": 1.0,
+  "unrelated_query_abstention": 1.0,
+  "cases": [
+    {
+      "question": "Aurora records retained years",
+      "expected": "aurora.md",
+      "actual": "aurora.md",
+      "correct": true
+    },
+    {
+      "question": "Aurora technical proposal budget",
+      "expected": "aurora.md",
+      "actual": "aurora.md",
+      "correct": true
+    },
+    {
+      "question": "Aurora submission deadline",
+      "expected": "aurora.md",
+      "actual": "aurora.md",
+      "correct": true
+    },
+    {
+      "question": "Borealis rail travel accommodation",
+      "expected": "borealis.md",
+      "actual": "borealis.md",
+      "correct": true
+    },
+    {
+      "question": "Borealis maximum visit duration",
+      "expected": "borealis.md",
+      "actual": "borealis.md",
+      "correct": true
+    },
+    {
+      "question": "Borealis appeals notification",
+      "expected": "borealis.md",
+      "actual": "borealis.md",
+      "correct": true
+    },
+    {
+      "question": "Cirrus source code installation",
+      "expected": "cirrus.md",
+      "actual": "cirrus.md",
+      "correct": true
+    },
+    {
+      "question": "Cirrus datasets provenance dictionary",
+      "expected": "cirrus.md",
+      "actual": "cirrus.md",
+      "correct": true
+    },
+    {
+      "question": "Cirrus ethics participant data",
+      "expected": "cirrus.md",
+      "actual": "cirrus.md",
+      "correct": true
+    },
+    {
+      "question": "quantum zebra teleportation",
+      "expected": null,
+      "actual": null,
+      "correct": true
+    },
+    {
+      "question": "pizza mozzarella oven",
+      "expected": null,
+      "actual": null,
+      "correct": true
+    },
+    {
+      "question": "volcano magma tectonics",
+      "expected": null,
+      "actual": null,
+      "correct": true
+    }
+  ]
+}

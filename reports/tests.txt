@@ -1,0 +1,20 @@
+test_demo_query_and_clear (test_app.AppTests.test_demo_query_and_clear) ... 2026-11-11 19:30:48.779 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_page_provenance (test_pdf.PdfTests.test_page_provenance) ... ok
+test_bad_overlap (test_rag.RagTests.test_bad_overlap) ... ok
+test_chunk_coverage_and_overlap (test_rag.RagTests.test_chunk_coverage_and_overlap) ... ok
+test_dense_normalization (test_rag.RagTests.test_dense_normalization) ... ok
+test_duplicate_content (test_rag.RagTests.test_duplicate_content) ... ok
+test_empty_query (test_rag.RagTests.test_empty_query) ... ok
+test_invalid_citation (test_rag.RagTests.test_invalid_citation) ... ok
+test_no_evidence_no_generation (test_rag.RagTests.test_no_evidence_no_generation) ... ok
+test_pdf_empty (test_rag.RagTests.test_pdf_empty) ... ok
+test_provider_contract (test_rag.RagTests.test_provider_contract) ... ok
+test_retrieval_and_abstention (test_rag.RagTests.test_retrieval_and_abstention) ... ok
+test_unsupported_and_empty (test_rag.RagTests.test_unsupported_and_empty) ... ok
+test_valid_citation (test_rag.RagTests.test_valid_citation) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.157s
+
+OK

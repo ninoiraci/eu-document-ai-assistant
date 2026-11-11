@@ -1,0 +1,4 @@
+numpy==2.4.1
+scikit-learn==1.8.0
+streamlit==1.66.1
+pypdf==6.21.4

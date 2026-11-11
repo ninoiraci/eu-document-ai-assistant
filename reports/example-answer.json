@@ -1,0 +1,16 @@
+{
+  "mode": "retrieval_only",
+  "question": "How long are Aurora project records retained?",
+  "answer": "[S1] # SYNTHETIC DEMO — Aurora research programme This is invented test material, not an official EU document. Aurora project records must be retained for seven years after project closure. Records include budgets, review reports and deliverable acceptance notes. Aurora applications require a technical proposal and a budget breakdown. The review panel evaluates feasibility, research quality and reproducibility. The submission deadline is 15 September 2030.",
+  "abstained": false,
+  "sources": [
+    {
+      "label": "S1",
+      "id": "a9e38f89c104-1-0",
+      "source": "aurora.md",
+      "page": 1,
+      "text": "# SYNTHETIC DEMO — Aurora research programme This is invented test material, not an official EU document. Aurora project records must be retained for seven years after project closure. Records include budgets, review reports and deliverable acceptance notes. Aurora applications require a technical proposal and a budget breakdown. The review panel evaluates feasibility, research quality and reproducibility. The submission deadline is 15 September 2030.",
+      "score": 0.33000782757032665
+    }
+  ]
+}
